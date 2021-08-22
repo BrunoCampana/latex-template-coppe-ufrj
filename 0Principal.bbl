@@ -1,4 +1,4 @@
-\begin{thebibliography}{9}
+\begin{thebibliography}{11}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -11,9 +11,9 @@
 \newblock \coppeenquote{Existence Theorems in the Theory of Mixtures},
   \emph{Journal of Elasticity}, v.~42, n.~2, \penalty0 pp.~145--163, fev. 1996.
 
-\bibitem[\MakeUppercase{Abraham}\emph{ et~al.}(1988)Abraham, Marsden, e
-  Ratiu]{book-example}
-\MakeUppercase{Abraham, R., Marsden, J.~E., Ratiu, T.}
+\bibitem[\MakeUppercase{Abraham}\emph{ et~al.}(1988)Abraham, Marsden, Ratiu, e
+  Matthew]{book-example}
+\MakeUppercase{Abraham, R., Marsden, J.~E., Ratiu, T., \MakeLowercase{et~al.}}
 \newblock \emph{Manifolds, Tensor Analysis, and Applications}.
 \newblock 2 ed. New York, Springer-Verlag, 1988.
 
@@ -41,8 +41,9 @@
 \bibitem[\MakeUppercase{Cowin}(1987)Cowin]{incollection-example}
 \MakeUppercase{Cowin, S.~C.}
 \newblock \coppeenquote{Adaptive Anisotropy: An Example in Living Bone}. In:
-  \emph{Non-Classical Continuum Mechanics}, v. 122, \emph{London Mathematical
-  Society Lecture Note Series}, Cambridge University Press, pp. 174--186, 1987.
+  Hawley, T.~S., Hawley, R.~G. (Eds.), \emph{Non-Classical Continuum
+  Mechanics}, v. 122, \emph{London Mathematical Society Lecture Note Series},
+  Cambridge University Press, pp. 174--186, 1987.
 
 \bibitem[\MakeUppercase{Edwards}(1976)Edwards]{inbook-example}
 \MakeUppercase{Edwards, D.~K.}
@@ -50,8 +51,9 @@
   Goldstein, R.~J. (Eds.), \emph{Measurements in Heat Transfer}, 2 ed.,
   cap.~10, New York, USA, Hemisphere Publishing Corporation, 1976.
 
-\bibitem[\MakeUppercase{Tuntomo}(1990)Tuntomo]{mastersthesis-example}
-\MakeUppercase{Tuntomo, A.}
+\bibitem[\MakeUppercase{Tuntomo}\emph{ et~al.}(1990)Tuntomo
+  et~al.]{mastersthesis-example}
+\MakeUppercase{Tuntomo, A., others}.
 \newblock \emph{Transport Phenomena in a Small Particle with Internal Radiant
   Absorption}.
 \newblock {Ph.D.} dissertation, University of California at Berkeley, Berkeley,
@@ -63,5 +65,16 @@
   do Foton na Degrada{\c c}\~ao de C{\'e}lulas Solares de Sil{\'i}cio Amorfo
   Hidrogenado}.
 \newblock Tese de {D.Sc.}, COPPE/UFRJ, Rio de Janeiro, RJ, Brasil, 1994.
+
+\bibitem[\MakeUppercase{Campana}\emph{ et~al.}(2024)Campana
+  et~al.]{book-example2}
+\MakeUppercase{Campana, B., other}.
+\newblock \emph{Introduction to Engineering Thinking}.
+\newblock 1st ed. London, UK, Wiley, 2024.
+
+\bibitem[\MakeUppercase{{NEET/MIT}}(2024){NEET/MIT}]{book-example3}
+\MakeUppercase{{NEET/MIT}}.
+\newblock \emph{Report of NEET/MIT}.
+\newblock 1st ed. London, UK, Wiley, 2024.
 
 \end{thebibliography}

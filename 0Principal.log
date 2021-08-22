@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.8.20)  22 AUG 2021 13:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.8.20)  22 AUG 2021 17:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -407,7 +407,9 @@ Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
 
 
 Writing index file 0Principal.idx
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+(/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count288
 \l__pdf_internal_box=\box56
@@ -428,29 +430,29 @@ LaTeX Warning: Label `quadro-exemplo' multiply defined.
 ) (./5sintese.aux) (./6conclusoes.aux) (./apendicea.aux) (./apendiceb.aux))
 \openout1 = `0Principal.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Trying to load font information for T1+qtm on input line 98.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Trying to load font information for T1+qtm on input line 102.
  (/usr/share/texmf/tex/latex/tex-gyre/t1qtm.fd
 File: t1qtm.fd 2009/09/25 v1.2 font definition file for T1/qtm
 )
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 98.
+(lastpage)             ! on input line 102.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count289
@@ -512,9 +514,9 @@ Package caption Info: longtable package is loaded.
 Package: ltcaption 2018/08/26 v1.4a longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
-Package backref Info: ** backref set up for natbib ** on input line 98.
+Package backref Info: ** backref set up for natbib ** on input line 102.
 \AtBeginShipoutBox=\box58
-Package hyperref Info: Link coloring OFF on input line 98.
+Package hyperref Info: Link coloring OFF on input line 102.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
@@ -524,9 +526,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count295
 )
-LaTeX Info: Redefining \ref on input line 98.
-LaTeX Info: Redefining \pageref on input line 98.
-LaTeX Info: Redefining \nameref on input line 98.
+LaTeX Info: Redefining \ref on input line 102.
+LaTeX Info: Redefining \pageref on input line 102.
+LaTeX Info: Redefining \nameref on input line 102.
  (./0Principal.out) (./0Principal.out)
 \@outlinefile=\write6
 \openout6 = `0Principal.out'.
@@ -539,13 +541,8 @@ File: coppe-logo.pdf Graphic file (type pdf)
 <use coppe-logo.pdf>
 Package pdftex.def Info: coppe-logo.pdf  used on input line 123.
 (pdftex.def)             Requested size: 177.46255pt x 76.2848pt.
-
-Underfull \hbox (badness 4181) in paragraph at lines 123--123
-\T1/qtm/m/n/12 COPPE, da Universidade Federal do Rio de
- []
-
 LaTeX Font Info:    Trying to load font information for U+msa on input line 123.
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 123.
@@ -556,52 +553,41 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </usr/local/share/texmf/tex/latex/coppe/coppe-logo.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 124--124
-\T1/qtm/m/n/12 LUIZ COIMBRA DE PÓS-GRADUAÇÃO E PESQUISA DE ENGENHARIA
+\T1/qtm/m/n/12 EXAME DE QUA-LI-FI-CA-ÇÃO SUB-ME-TIDO []AO CORPO DOCENTE DO
  []
 
 
-Underfull \hbox (badness 2913) in paragraph at lines 124--124
-\T1/qtm/m/n/12 DA UNIVERSIDADE FEDERAL DO RIO DE JANEIRO COMO PARTE DOS
+Underfull \hbox (badness 1112) in paragraph at lines 124--124
+\T1/qtm/m/n/12 INSTITUTO ALBERTO LUIZ COIMBRA DE PÓS-GRADUAÇÃO E PESQUISA
  []
 
 [2
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 124--124
-[]\T1/qtm/m/n/12 Dissertação (mestrado) -- UFRJ/COPPE/Programa de
- []
+] [3
 
-[3
-
-] [4
 
 ]
 \openout2 = `agradecimentos.aux'.
 
- (./agradecimentos.tex) [5
+ (./agradecimentos.tex) [4
 
 
-] (./resumo-em-portugues.tex [6
+] (./resumo-em-portugues.tex [5
 
 
-]) (./resumo-em-ingles.tex [7]
-Underfull \hbox (badness 1394) in paragraph at lines 1--1
-[]\T1/qtm/m/n/12 Abstract of Dissertation presented to COPPE/UFRJ as a partial fulfillment of the
- []
-
-) [8
+]) (./resumo-em-ingles.tex [6]) [7
 
 ] (./0Principal.toc)
 \tf@toc=\write7
 \openout7 = `0Principal.toc'.
 
- [9
+ [8
 
 ] (./0Principal.lof)
 \tf@lof=\write8
 \openout8 = `0Principal.lof'.
 
- [10
+ [9
 
 ] (./0Principal.lot
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 6.
@@ -611,23 +597,23 @@ File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 \tf@lot=\write9
 \openout9 = `0Principal.lot'.
 
- [11
+ [10
 
 ] (./0Principal.lografico)
 \tf@lografico=\write10
 \openout10 = `0Principal.lografico'.
 
- [12
+ [11
 
 ] (./0Principal.loquadro)
 \tf@loquadro=\write11
 \openout11 = `0Principal.loquadro'.
 
- (./0Principal.los [13
+ (./0Principal.los [12
 
-]) (./0Principal.lab [14
+]) (./0Principal.lab [13
 
-]) [15
+]) [14
 
 ]
 \openout2 = `1introducao.aux'.
@@ -724,7 +710,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
 
 ]
-<Figuras/figura-exemplo.png, id=205, 503.8825pt x 197.73875pt>
+<Figuras/figura-exemplo.png, id=192, 503.8825pt x 197.73875pt>
 File: Figuras/figura-exemplo.png Graphic file (type png)
 <use Figuras/figura-exemplo.png>
 Package pdftex.def Info: Figuras/figura-exemplo.png  used on input line 35.
@@ -861,7 +847,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--41
 
 [2 <./Figuras/figura-exemplo.png>]
 Package hyperref Info: bookmark level for unknown grafico defaults to 0 on input line 44.
-<GrÃ¡ficos/grafico-exemplo.png, id=212, 503.8825pt x 258.9675pt>
+<GrÃ¡ficos/grafico-exemplo.png, id=199, 503.8825pt x 258.9675pt>
 File: GrÃ¡ficos/grafico-exemplo.png Graphic file (type png)
 <use GrÃ¡ficos/grafico-exemplo.png>
 Package pdftex.def Info: GrÃ¡ficos/grafico-exemplo.png  used on input line 45.
@@ -886,13 +872,13 @@ Cap\'{\i }tulo 3.
 
 ] [6] [7]
 Package hyperref Info: bookmark level for unknown quadro defaults to 0 on input line 38.
-<Quadros/quadro-exemplo.png, id=265, 511.9125pt x 223.83624pt>
+<Quadros/quadro-exemplo.png, id=252, 511.9125pt x 223.83624pt>
 File: Quadros/quadro-exemplo.png Graphic file (type png)
 <use Quadros/quadro-exemplo.png>
 Package pdftex.def Info: Quadros/quadro-exemplo.png  used on input line 39.
 (pdftex.def)             Requested size: 511.91125pt x 223.8357pt.
  [8] [9 <./Quadros/quadro-exemplo.png>] [10]
-<Quadros/quadro-exemplo2.png, id=280, 1344.02126pt x 768.8725pt>
+<Quadros/quadro-exemplo2.png, id=266, 1344.02126pt x 768.8725pt>
 File: Quadros/quadro-exemplo2.png Graphic file (type png)
 <use Quadros/quadro-exemplo2.png>
 Package pdftex.def Info: Quadros/quadro-exemplo2.png  used on input line 62.
@@ -975,11 +961,11 @@ Ap\^endice B.
 
 ]) 
 AED: lastpage setting LastPage
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 187.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 187.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 189.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 189.
 (./0Principal.aux (./agradecimentos.aux) (./1introducao.aux) (./2revisao-bibliografica.aux) (./3design-da-pesquisa.aux) (./4analise.aux) (./5sintese.aux) (./6conclusoes.aux) (./apendicea.aux) (./apendiceb.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 187.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 187.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 189.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 189.
 Package rerunfilecheck Info: File `0Principal.out' has not changed.
 (rerunfilecheck)             Checksum: 169DD6242FCD6ED9AA632D64CFC982B7;1007.
 Package rerunfilecheck Info: File `0Principal.brf' has not changed.
@@ -988,21 +974,21 @@ Package rerunfilecheck Info: File `0Principal.brf' has not changed.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 187.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 189.
  ) 
 Here is how much of TeX's memory you used:
- 10846 strings out of 483163
- 162195 string characters out of 5965511
- 455622 words of memory out of 5000000
- 25443 multiletter control sequences out of 15000+600000
+ 10863 strings out of 483163
+ 162624 string characters out of 5965511
+ 455911 words of memory out of 5000000
+ 25456 multiletter control sequences out of 15000+600000
  584269 words of font info for 74 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
- 47i,11n,53p,2263b,447s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qtmb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qtmr.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qtmri.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on 0Principal.pdf (39 pages, 416505 bytes).
+ 47i,9n,53p,2263b,447s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qtmb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qtmr.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qtmri.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on 0Principal.pdf (38 pages, 401266 bytes).
 PDF statistics:
- 410 PDF objects out of 1000 (max. 8388607)
- 347 compressed objects within 4 object streams
- 80 named destinations out of 1000 (max. 500000)
+ 395 PDF objects out of 1000 (max. 8388607)
+ 335 compressed objects within 4 object streams
+ 81 named destinations out of 1000 (max. 500000)
  170 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -2,7 +2,7 @@
 %INÍCIO DO PREÂMBULO
 %
 
-\documentclass[msc,numbers]{coppe}
+\documentclass[mscexam,numbers]{coppe}
 %Pacotes padrão do CoppeTeX
 \usepackage{amsmath,amssymb}
 %Pacote Hyperref já usado mais abaixo com mais opções
@@ -88,6 +88,10 @@
 \usepackage{makeidx}
 \makeindex
 
+%Inserir como padrão a indentação do primeiro parágrafo de cada capítulo, que na língua inglesa não é o caso, porém na portuguesa é
+%Não altera nada para capítulos com epígrafe
+\usepackage{indentfirst}
+
 %
 %
 %FIM DO PREÂMBULO
@@ -114,10 +118,6 @@
   \keyword{engineering education}
   \keyword{entrepreneurial education}
   \keyword{entrepreneurial engineering}
-
-  \keyword{Primeira palavra-chave}
-  \keyword{Segunda palavra-chave}
-  \keyword{Terceira palavra-chave}
 
   \maketitle
 
@@ -175,8 +175,10 @@
   \include{6conclusoes}
 
   \backmatter
+  %Incluir todas as referências do .bib que não foram citadas
+  \nocite{*}
   \bibliographystyle{coppe-unsrt}
-  \bibliography{example}
+  \bibliography{referencias}
 
   \begin{appendices}
     \include{apendicea}
